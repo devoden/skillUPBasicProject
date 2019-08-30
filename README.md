@@ -3,4 +3,4 @@
 
 [Shop demo](https://freeker0k.github.io/skillUPBasicProject/Shop_demo/);
 
-[simple calculator](https://freeker0k.github.io/skillUpBasicProject/simplecalculator/);
+[simple calculator](https://freeker0k.github.io/skillUPBasicProject/simplecalculator/);
